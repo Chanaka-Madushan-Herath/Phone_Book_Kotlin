@@ -3,12 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/DisplayContactFragment">
+    app:startDestination="@id/DisplayContactsFragment">
 
     <fragment
-        android:id="@+id/DisplayContactFragment"
+        android:id="@+id/DisplayContactsFragment"
         android:name="com.cmadushan.android.contacts.DisplayContactsFragment"
-        android:label="@string/first_fragment_label"
+        android:label="@string/Display_Contacts_fragment_label"
         tools:layout="@layout/fragment_display_contacts">
 
         <action
@@ -21,21 +21,22 @@
     <fragment
         android:id="@+id/ViewContactFragment"
         android:name="com.cmadushan.android.contacts.ViewContactFragment"
-        android:label="@string/second_fragment_label"
+        android:label="@string/View_Contact_fragment_label"
         tools:layout="@layout/fragment_view_contact">
 
         <action
             android:id="@+id/action_ViewContactFragment_to_DisplayContactsFragment"
-            app:destination="@id/DisplayContactFragment" />
+            app:destination="@id/DisplayContactsFragment" />
     </fragment>
+
     <fragment
         android:id="@+id/AddContactFragment"
         android:name="com.cmadushan.android.contacts.AddContactFragment"
-        android:label="@string/Add_Contact"
+        android:label="@string/Add_Contact_fragment_label"
         tools:layout="@layout/fragment_add_contact">
 
         <action
             android:id="@+id/action_AddContactFragment_to_DisplayContactsFragment"
-            app:destination="@id/DisplayContactFragment" />
+            app:destination="@id/DisplayContactsFragment" />
     </fragment>
 </navigation>

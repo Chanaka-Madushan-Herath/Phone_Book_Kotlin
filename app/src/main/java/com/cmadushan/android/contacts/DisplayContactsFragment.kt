@@ -5,14 +5,12 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
+import android.widget.ListView
 import androidx.navigation.fragment.findNavController
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
-/**
- * A simple [Fragment] subclass as the default destination in the navigation.
- */
 class DisplayContactsFragment : Fragment() {
+
 
     override fun onCreateView(
             inflater: LayoutInflater, container: ViewGroup?,
@@ -25,10 +23,10 @@ class DisplayContactsFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        view.findViewById<Button>(R.id.button_first).setOnClickListener {
+        view.findViewById<ListView>(R.id.displayContacts).setOnClickListener {
             findNavController().navigate(R.id.action_DisplayContactsFragment_to_ViewContactFragment)
         }
-        view.findViewById<FloatingActionButton>(R.id.add_contact).setOnClickListener {
+        view.findViewById<FloatingActionButton>(R.id.addContact).setOnClickListener {
             findNavController().navigate(R.id.action_DisplayContactsFragment_to_AddContactFragment)
         }
     }

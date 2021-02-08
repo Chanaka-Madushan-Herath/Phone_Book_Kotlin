@@ -8,9 +8,6 @@ import android.view.ViewGroup
 import android.widget.Button
 import androidx.navigation.fragment.findNavController
 
-/**
- * A simple [Fragment] subclass as the second destination in the navigation.
- */
 class ViewContactFragment : Fragment() {
 
     override fun onCreateView(
@@ -23,9 +20,5 @@ class ViewContactFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
-        view.findViewById<Button>(R.id.button_second).setOnClickListener {
-            findNavController().navigate(R.id.action_ViewContactFragment_to_DisplayContactsFragment)
-        }
     }
 }

@@ -5,10 +5,6 @@
       <config />
     </shared>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -28,101 +24,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb94b42b-0f40-4832-9e10-e5d7d4ed68d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhoneBook/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/cmadushan/android/contacts/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/AddContactFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/DisplayContactsFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/ViewContactFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_contact.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_display_contacts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_contact.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/cmadushan/android/contacts/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/androidTest/java/com/cmadushan/android/phonebook/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/java/com/cmadushan/android/phonebook/FirstFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/java/com/cmadushan/android/phonebook/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/java/com/cmadushan/android/phonebook/SecondFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/layout/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/app/src/test/java/com/cmadushan/android/phonebook/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/settings.gradle" beforeDir="false" />
+    <list default="true" id="990375f5-426b-42a1-bf61-24e58c9f5567" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/account-icon-avatar-icon-person-icon-profile-icon-user-icon-logo-symbol-circle-blackandwhite-png-clipart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/account_icon_avatar_icon_person_icon_profile_icon_user_icon_logo_symbol_circle_blackandwhite_png_clipart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/phone_book_1404933_1187580.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-small/pp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/single_contact.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phone-book-1404933-1187580.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/AddContactFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/AddContactFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/DisplayContactsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/DisplayContactsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/ViewContactFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/ViewContactFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_contact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_contact.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_display_contacts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_display_contacts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_contact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_contact.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,29 +61,32 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1o5xSbLmFPbA45Xp68KKjFqAJ6S" />
+  <component name="ProjectId" id="1o8Z9k3T5Oc3IjffpzVuCUXog2y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="android.sdk.path" value="C:/src/flutter/sdk" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../src/flutter/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Academic/Second Year/second sem/SENG 22243 - Mobile Application Development/Practicle/android/my-application" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.-59417845">
-      <recent name="com.cmadushan.android.contacts" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -230,11 +159,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb94b42b-0f40-4832-9e10-e5d7d4ed68d4" name="Default Changelist" comment="" />
-      <created>1612590253925</created>
+      <changelist id="990375f5-426b-42a1-bf61-24e58c9f5567" name="Default Changelist" comment="" />
+      <created>1612670030561</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612590253925</updated>
+      <updated>1612670030561</updated>
     </task>
     <servers />
   </component>
@@ -250,34 +179,41 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612591643408">
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog" timestamp="1612682336645">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1612591643408" />
-    <state x="614" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1612595176294">
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1612682336645" />
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1612677629106">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="614" y="207" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1612595176294" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1612596436655">
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1612677629106" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1612679487222">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612596436655" />
-    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1612595421962">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612679487222" />
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1612682931035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612595421962" />
-    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1612595421961">
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
+    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1612682931035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1612595421961" />
-    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1612595421961">
+    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
+    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1612682931035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1612595421961" />
-    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1612595421961">
+    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
+    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1612682931035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1612595421961" />
+    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
+    <state x="425" y="70" width="670" height="676" key="search.everywhere.popup" timestamp="1612671718280">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="70" width="670" height="676" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1612671718280" />
   </component>
 </project>
