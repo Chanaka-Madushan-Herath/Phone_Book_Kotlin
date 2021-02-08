@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ViewContactFragment">
+    tools:context=".fragment.view.ViewContactFragment">
 
     <ScrollView
         android:id="@+id/scrollView2"
@@ -23,7 +23,13 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <include layout="@layout/pp" />
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/imageButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="400dp"
+                    android:src="@drawable/avatar1"
+                    app:civ_border_width="3dp"
+                    app:civ_border_color="@color/black"/>
 
                 <LinearLayout
                     android:layout_width="match_parent"

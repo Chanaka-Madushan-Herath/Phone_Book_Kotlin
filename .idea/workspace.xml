@@ -5,6 +5,10 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -25,30 +29,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="990375f5-426b-42a1-bf61-24e58c9f5567" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/account-icon-avatar-icon-person-icon-profile-icon-user-icon-logo-symbol-circle-blackandwhite-png-clipart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/account_icon_avatar_icon_person_icon_profile_icon_user_icon_logo_symbol_circle_blackandwhite_png_clipart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/phone_book_1404933_1187580.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-small/pp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/single_contact.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phone-book-1404933-1187580.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/data/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/data/UserDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/data/UserDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/data/UserRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/data/UserViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/fragment/display/ListAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/avatar1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/contacts_phone_book_pixel_blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-phone-book-pixel-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draw-a-cool-vector-cartoon-avatar-of-your-portrait.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/AddContactFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/AddContactFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/DisplayContactsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/DisplayContactsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/AddContactFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/fragment/add/AddContactFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/DisplayContactsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/fragment/display/DisplayContactsFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/ViewContactFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/ViewContactFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/ViewContactFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cmadushan/android/contacts/fragment/view/ViewContactFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-small/pp.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_contact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_contact.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_display_contacts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_display_contacts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_contact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_contact.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/single_contact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/single_contact.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +70,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -85,8 +93,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../src/flutter/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.cmadushan.android.contacts.fragment.view" />
+      <recent name="com.cmadushan.android.contacts.fragment.add" />
+      <recent name="com.cmadushan.android.contacts.fragment.display" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -165,6 +181,14 @@
       <option name="presentableId" value="Default" />
       <updated>1612670030561</updated>
     </task>
+    <task id="LOCAL-00001" summary="complete add contact and view contact ui">
+      <created>1612756663097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612756663097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,36 +205,66 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="complete add contact and view contact ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete add contact and view contact ui" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="172" key="AndroidCreateResourceFileDialog" timestamp="1612682336645">
+    <state x="493" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612796203479">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="349" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1612682336645" />
-    <state x="614" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1612677629106">
+    <state x="493" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1612796203479" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1612802506774">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="614" y="207" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1612677629106" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1612679487222">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1612802506774" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612805662868">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612679487222" />
-    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1612682931035">
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1612805662868" />
+    <state x="521" y="208" width="496" height="417" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1612789081016">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
-    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1612682931035">
+    <state x="521" y="208" width="496" height="417" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1612789081016" />
+    <state x="349" y="172" key="AndroidCreateResourceDirectoryDialog" timestamp="1612793372993">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
-    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1612682931035">
+    <state x="349" y="172" key="AndroidCreateResourceDirectoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1612793372993" />
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog" timestamp="1612805722108">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
-    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1612682931035">
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1612805722108" />
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1612793168976">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1612682931035" />
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1612793168976" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1612807495467">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612807495467" />
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1612807796023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612807796023" />
+    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1612807796022">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1612807796022" />
+    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1612807796022">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1612807796022" />
+    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1612807796022">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1612807796022" />
+    <state x="349" y="160" key="IDE.errors.dialog" timestamp="1612804316821">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="160" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1612804316821" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1612756666110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1612756666110" />
     <state x="425" y="70" width="670" height="676" key="search.everywhere.popup" timestamp="1612671718280">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

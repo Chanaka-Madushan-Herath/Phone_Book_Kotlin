@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/DisplayContactsFragment"
-        android:name="com.cmadushan.android.contacts.DisplayContactsFragment"
+        android:name="com.cmadushan.android.contacts.fragment.display.DisplayContactsFragment"
         android:label="@string/Display_Contacts_fragment_label"
         tools:layout="@layout/fragment_display_contacts">
 
@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/ViewContactFragment"
-        android:name="com.cmadushan.android.contacts.ViewContactFragment"
+        android:name="com.cmadushan.android.contacts.fragment.view.ViewContactFragment"
         android:label="@string/View_Contact_fragment_label"
         tools:layout="@layout/fragment_view_contact">
 
@@ -31,7 +31,7 @@
 
     <fragment
         android:id="@+id/AddContactFragment"
-        android:name="com.cmadushan.android.contacts.AddContactFragment"
+        android:name="com.cmadushan.android.contacts.fragment.add.AddContactFragment"
         android:label="@string/Add_Contact_fragment_label"
         tools:layout="@layout/fragment_add_contact">
 
