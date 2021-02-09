@@ -31,7 +31,10 @@ class AddContactFragment : Fragment() {
             insertDataToDatabase()
 
         }
-
+        view.findViewById<Button>(R.id.button_cancel).setOnClickListener {
+            val action = AddContactFragmentDirections.actionAddContactFragmentToDisplayContactsFragment()
+            findNavController().navigate(action)
+        }
         return view
 
     }
